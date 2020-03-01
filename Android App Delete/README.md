@@ -1,8 +1,9 @@
 # How to delete Apps that can't be deleted on Android.
 
 ## Prerequisite
-1. ADB install
-You need ADB(Android Debug Bridge) is included in the Android SDK platform tools package. This package can be downloaded using the SDK Manager and is installed in android_sdk/platform-tools/ (<https://developer.android.com/studio/releases/platform-tools?hl=ko>).  
+1. ADB  
+ADB(Android Debug Bridge) is included in the Android SDK platform tools package.  
+This package can be downloaded using the SDK Manager and is installed in android_sdk/platform-tools/ (<https://developer.android.com/studio/releases/platform-tools?hl=ko>).  
 
 2. Activate phone developer settings
 
