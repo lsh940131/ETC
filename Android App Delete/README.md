@@ -25,7 +25,7 @@ So how to know the app package name?
 > then, execute the APK inspector app. you choose an app to want to know the app package name.  
 
 you will see like the following picture.  
-![APK name](https://user-images.githubusercontent.com/34882947/75626713-43337f00-5c0d-11ea-8280-fa1c17a3605d.JPG){: width="500" height="500"}
+<img src="https://user-images.githubusercontent.com/34882947/75626713-43337f00-5c0d-11ea-8280-fa1c17a3605d.JPG" width="300"/>
 
 #### 2. Delete the app
 ```
